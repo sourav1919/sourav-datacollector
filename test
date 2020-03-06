@@ -1,0 +1,5 @@
+class test{
+  public static void main(String[]demo){
+    System.out.print("Hi Buddy");
+  }
+}
